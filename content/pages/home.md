@@ -24,6 +24,10 @@ blocks:
       alt: Tina
     color: default
     _template: hero
+  - quote: hello world
+    author: Phil Karlton
+    color: primary
+    _template: testimonial
   - items:
       - icon:
           color: red
