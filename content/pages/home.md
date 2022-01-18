@@ -1,6 +1,6 @@
 ---
 blocks:
-  - tagline: ''
+  - tagline: 'Hello world '
     headline: Welcome to Tina
     text: >
       Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
